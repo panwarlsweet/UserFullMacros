@@ -9,3 +9,6 @@ fileWriter.py : Macro to make a text file containing path of files
 
 
 splitLHE.py: Splits LHE files
+
+
+batch_scrpit.sh: generate more than one job submission scrpit
