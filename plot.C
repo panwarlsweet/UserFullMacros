@@ -1,5 +1,7 @@
 /// from https://root.cern/doc/master/hvector_8C_source.html
 
+//// run "root -l plot.C"
+
 void plot(){
   ///// define canvas on which you will plot 
   TCanvas c1;
